@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/corenlp-processor.iml" filepath="$PROJECT_DIR$/corenlp-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-corenlp-nar/nifi-corenlp-nar.iml" filepath="$PROJECT_DIR$/nifi-corenlp-nar/nifi-corenlp-nar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nifi-corenlp-processors/nifi-corenlp-processors.iml" filepath="$PROJECT_DIR$/nifi-corenlp-processors/nifi-corenlp-processors.iml" />
+    </modules>
+  </component>
+</project>
